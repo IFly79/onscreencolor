@@ -1,6 +1,6 @@
 {
-  "name": "OnScreenColor",
-  "version": "1.0.0",
+  "name": "onsreencolor",
+  "version": "0.0.3",
   "description": "trouvez les couleurs de vos images",
   "main": "src/index.js",
   "scripts": {
